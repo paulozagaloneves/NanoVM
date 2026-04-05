@@ -1,4 +1,4 @@
-# Terminal Linux no Browser (WASM + Alpine)
+# NanoVM - Terminal Linux no Browser (WASM + Alpine)
 
 Este laboratorio disponibiliza um terminal Linux que roda no browser usando:
 
